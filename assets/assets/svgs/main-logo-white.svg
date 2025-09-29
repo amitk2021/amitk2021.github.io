@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(1,0,0,-1,0,1000)" d="M0 1000H1000V0H0Z"/>
+</clipPath>
+</defs>
+<g inkscape:groupmode="layer" inkscape:label="Layer 1">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 1000)" font-size="141.6126" font-family="Roboto"><tspan y="-446.7686" x="343.979 448.20588 542.8031 637.4003 729.87338 782.5532">VEEFIN</tspan></text>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(1,0,0,-1,251,417.09834)" d="M0 0-45.29-26.28-89.2-51.76V-3.65L-46.92 21.5C-43.98 23.25-40.32 23.27-37.36 21.57Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,301.73,497.8183)" d="M0 0V-50.31C0-53.68-1.82-56.82-4.73-58.5L-40.96-79.41V23.22Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,158.47,422.73829)" d="M0 0V-102.78L-36.53-81.21-42.07-77.94V-30.4C-42.07-27.09-40.3-23.97-37.45-22.28Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,301.73,451.8282)" d="M0 0V-42.15L-89.31 8.49-47.39 32.81-4.73 8.19C-1.82 6.51 0 3.37 0 0" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,257.43,531.3382)" d="M0 0V-47.81L-43.86-73.13C-46.78-74.82-50.41-74.81-53.33-73.12L-89.7-52.03-45.07-26.14Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,205.77,557.4483)" d="M0 0-41.36-23.99-84.66 1.12C-87.56 2.81-89.37 5.94-89.37 9.3V52.9Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,116.4,500.6682)" d="M0 0V-.01L5.54-3.28Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,209.2084,499.1461)" d="M0 0 21.38 12.34 0 25.568-21.707 12.404Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,186.3894,489.643)" d="M0 0V-24.935L20.857-36.383V-11.919Z" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,231.7009,489.643)" d="M0 0V-24.935L-20.857-36.383V-11.919Z" fill="#ffffff"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,90 @@
+{
+    "errors": {
+        "error": "Error",
+        "somethingWentWrong": "Something Went Wrong",
+        "noNewInvoicesDispatchedDot": "No new invoices dispatched.",
+        "noNewRecordsDispatchedDot": "No new records dispatched.",
+        "pleaseSelectTheProductCode": "Please select the product code",
+        "requestEntityTooLarge": "Request Entity Too Large",
+        "invalidCredentials": "Invalid Credentials",
+        "cameraAccessDenied": "Camera access denied. Enable it in Settings.",
+        "noCamerasFound": "No Cameras Found",
+        "cameraAccessDialogMessage": "Camera access is disabled. To continue, please allow camera permission from Settings.",
+        "cameraAccessPath": "Settings > {appName} > Camera",
+        "serverUnavailable": "The server is temporarily unavailable. Try refreshing or come back later."
+    },
+    "info": {
+        "pleaseTryAgain": "Please Try Again"
+    },
+    "home": {
+        "home": "Home",
+        "homeDesc": "Built on code, coffee, and commitment"
+    },
+    "loan": {
+        "loans": "Loans",
+        "educationLoan": "Education Loan",
+        "transactions": "Transactions",
+        "covenants": "Covenants",
+        "repaymentSchedule": "Repayment Schedule",
+        "payment": "Payment",
+        "statement": "Generate Statement",
+        "user_details": "Personal Details",
+        "security": "Security",
+        "activeLoan": "Active Applications",
+        "changeMpin": "Change M-PIN",
+        "overdue": "Overdue",
+        "disbursementRequest": "Disbursement Request",
+        "pastRequests": "Past Requests",
+        "createDisbursementRequest": "Create Disbursement Request"
+    },
+    "statement": {
+        "statement": "Statement"
+    }, "more": {
+        "more": "More"
+    },
+    "validators": {
+        "requiredField": "Required Field",
+        "passwordsDidntMatch": "Passwords didn't match"
+    },
+    "payFullOverdueAmount": "Pay Full Overdue Amount",
+    "proceed": "Proceed",
+    "active": "Active",
+    "inactive": "Inactive",
+    "confirm": "Confirm",
+    "submit": "Submit",
+    "verify": "Verify",
+    "upload": "Upload",
+    "cancel": "Cancel",
+    "okay": "Okay",
+    "done": "Done",
+    "replace": "Replace",
+    "retake": "Retake",
+    "keepScan": "Keep Scan",
+    "downloadSampleExcel": "Download Sample Excel",
+    "comingSoonDotted": "Coming Soon...",
+    "fileUploadSuccess": "File uploaded successfully.",
+    "or": "OR",
+    "noRecordsFound": "No Records Found",
+    "batchHasBeenSubmittedSuccessfully": "Batch has been submitted successfully",
+    "batchId": "Batch ID:",
+    "uploadDate": "Upload Date:",
+    "count": "Count:",
+    "instrumentType": "Instrument Type:",
+    "status": "Status",
+    "amount": "Amount:",
+    "amount:": "Amount:",
+    "fileName": "File Name:",
+    "view": "View",
+    "seller": "Seller:",
+    "reject": "Reject",
+    "approve": "Approve",
+    "save": "Save",
+    "clear": "Clear",
+    "status:": "Status:",
+    "remarks:": "Remarks:",
+    "buyer:": "Buyer:",
+    "scan": "Scan",
+    "scanMore": "Scan More",
+    "readMore": "Read More",
+    "next": "Next"
+}
